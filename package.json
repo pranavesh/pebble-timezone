@@ -1,0 +1,25 @@
+{
+    "author": "pranavesh@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "hello-tz",
+    "pebble": {
+        "displayName": "hello-world with time zone",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "43e2f804-b60e-4002-91bc-083d97ba7331",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
